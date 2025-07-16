@@ -65,3 +65,73 @@ GUI启动：
         RAW 图像用 rawpy 解码，JPG/PNG 用 Pillow 打开
         横向拉伸并保存到 Output 文件夹
         实时更新进度与日志
+```
+## 🧭 安装方法 | Installation
+
+### ✅ Windows 安装（推荐）
+
+1. 前往 [Releases 页面](https://github.com/yourusername/yourrepo/releases) 下载最新版安装包；
+2. 运行安装程序（如 `AnamorphicRestore_v1.1_Setup.exe`）；
+3. 安装完成后可从桌面或开始菜单启动软件。
+
+> ⚠️ 若安装受限，请右键选择“以管理员身份运行”。
+
+---
+
+## 🚀 使用说明 | Usage
+
+1. 选择输入图像所在文件夹；
+2. 设置横向拉伸还原倍率（可自定义）；
+3. 选择输出格式（PNG / JPEG / TIFF）；
+4. 点击“开始处理图像”，等待进度完成；
+5. 点击“打开输出文件夹”查看结果。
+
+---
+
+## 📷 支持格式 | Supported Formats
+
+- **输入格式**：`.arw`, `.nef`, `.rw2`, `.jpg`, `.jpeg`, `.png`
+- **输出格式**：`.png`, `.jpeg`, `.tiff`
+
+---
+
+## 📦 Releases 下载 | Latest Versions
+
+| 版本号 | 文件名 | 日期 | 下载链接 |
+|--------|--------|------|-----------|
+| v1.1   | `AnamorphicRestore_v1.1_Setup.exe` | 2025-07-16 | [📥 点此下载](https://github.com/yourusername/yourrepo/releases/tag/v1.1) |
+| v1.0   | `AnamorphicRestore_v1.0_Setup.exe` | 2025-06-30 | [📥 点此下载](https://github.com/yourusername/yourrepo/releases/tag/v1.0) |
+
+---
+
+## ❤️ 打赏支持作者 | Support the Author
+
+程序右侧展示了作者的收款二维码，点击可放大预览。  
+如你觉得本工具对你有帮助，欢迎小额打赏支持我继续开发！
+
+---
+
+## 📄 License | 许可证
+
+**MIT License (with Non-Commercial Clause)**  
+Copyright (c) 2025 Michael Chen
+
+Permission is hereby granted, free of charge, to any person obtaining a copy  
+of this software and associated documentation files (the “Software”), to deal  
+in the Software without restriction, including without limitation the rights  
+to use, copy, modify, merge, publish, and distribute copies of the Software,  
+subject to the following conditions:
+
+⚠️ **The Software may NOT be used, distributed, or integrated for commercial purposes**  
+**without the express written permission of the author (Michael Chen, michaelchen2025@163.com).**
+
+The above copyright notice and this permission notice shall be included in all  
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
+SOFTWARE.
