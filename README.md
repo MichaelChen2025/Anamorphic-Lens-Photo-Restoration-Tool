@@ -135,3 +135,21 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,  
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE  
 SOFTWARE.
+
+MIT 许可证（仅限非商业用途）
+
+版权所有 (c) 2025 Michael Chen
+
+在遵守以下条件的前提下，特此免费授权任何人获得本软件及相关文档文件（以下简称“软件”）的副本，以无限制地使用本软件，包括但不限于使用、复制、修改、合并、发布、分发、再许可和/或出售软件的副本。
+
+⚠️ 但本软件**不得用于商业目的**，除非事先获得原作者 Michael Chen 的**书面授权**。  
+商业目的包括但不限于：
+- 将本软件整合入任何商业产品；
+- 用于付费服务、商业演示或销售；
+- 修改后作为新软件用于盈利或销售。
+
+如需商业授权，请联系作者：michaelchen2025@163.com
+
+以上版权声明和本许可声明应包含在本软件的所有副本或主要部分中。
+
+本软件按“原样”提供，不提供任何形式的明示或暗示的担保，包括但不限于对适销性、特定用途适用性及不侵权的担保。在任何情况下，作者或版权持有人均不对因软件或软件的使用或其他交易而产生的任何索赔、损害或其他责任负责，无论是在合同诉讼、侵权行为或其他方面。
