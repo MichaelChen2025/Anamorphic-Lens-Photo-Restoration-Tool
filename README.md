@@ -70,7 +70,7 @@ GUI启动：
 
 ### ✅ Windows 安装（推荐）
 
-1. 前往 [Releases 页面](https://github.com/yourusername/yourrepo/releases) 下载最新版安装包；
+1. 前往 [Releases 页面](https://github.com/MichaelChen2025/Anamorphic-Lens-Photo-Restoration-Tool/releases/)下载最新版安装包；
 2. 运行安装程序（如 `AnamorphicRestore_v1.1_Setup.exe`）；
 3. 安装完成后可从桌面或开始菜单启动软件。
 
