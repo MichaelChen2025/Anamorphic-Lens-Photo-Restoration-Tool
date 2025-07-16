@@ -40,9 +40,8 @@ It supports various RAW and standard image formats, customizable stretch ratios,
 
 ---
 
-### 🧰 使用语言与核心库
+### 🧰 使用核心库
 
-- **语言**：Python 3.x
 - **图像处理**：
   - `rawpy`：读取 RAW 格式（.arw/.nef/.rw2）
   - `Pillow`：图像打开、缩放、保存
