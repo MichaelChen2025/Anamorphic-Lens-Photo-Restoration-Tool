@@ -99,8 +99,8 @@ GUI启动：
 
 | 版本号 | 文件名 | 日期 | 下载链接 |
 |--------|--------|------|-----------|
-| v1.1   | `AnamorphicRestore_v1.1_Setup.exe` | 2025-07-16 | [📥 点此下载](https://github.com/MichaelChen2025/Anamorphic-Lens-Photo-Restoration-Tool/releases/tag/v1.1) |
-| v1.0   | `AnamorphicRestore_v1.0_Setup.exe` | 2025-06-30 | [📥 点此下载](https://github.com/MichaelChen2025/Anamorphic-Lens-Photo-Restoration-Tool/releases/tag/v1.0) |
+| v1.1   | `AnamorphicRestore_v1.1_Setup.exe` | 2025-07-17 | [📥 点此下载](https://github.com/MichaelChen2025/Anamorphic-Lens-Photo-Restoration-Tool/releases/tag/v1.1) |
+| v1.0   | `AnamorphicRestore_v1.0_Setup.exe` | 2025-07-16 | [📥 点此下载](https://github.com/MichaelChen2025/Anamorphic-Lens-Photo-Restoration-Tool/releases/tag/v1.0) |
 
 ---
 
